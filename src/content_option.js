@@ -19,22 +19,6 @@ const dataabout = {
     title: "Hello👋🏻,",
     aboutme: " I'm Olalekan, a frontend developer with a passion for creating beautiful and responsive interfaces that enhance user experience. I have experience using HTML, CSS, and JavaScript to develop interactive websites and applications. I'm comfortable working with popular frameworks such as React and Vue. As a recent graduate, I'm eager to continue expanding my knowledge and skills in frontend development, and I'm excited about the opportunity to collaborate with experienced developers to learn best practices and improve my craft. I'm excited about the opportunity to bring my skills and enthusiasm to a junior developer or internship role, and to work with a team to create exceptional digital experiences for users.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week", 
-        where: "ALquds",
-        date: "2019",
-    },
-];
 
 const skills = [
     {
@@ -89,12 +73,13 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "alabilekanemmanuel@gmail.com",
-    YOUR_FONE: "(+234)81-018-537-01",
-    description: "We'd love to hear from you! Whether you have a question, feedback, or just want to say hello, this is the place to get in touch. Drop us a message using the form below, and we'll get back to you as soon as possible.",
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+  YOUR_EMAIL: "alabilekanemmanuel@gmail.com",
+  YOUR_FONE: "(+234)81-018-537-01",
+  description:
+    "I'd love to hear from you! Whether you have a question, feedback, or just want to say hello, this is the place to get in touch. Drop me a message using the form below, and I'll get back to you as soon as possible.",
+  YOUR_SERVICE_ID: "service_nb7yppt",
+  YOUR_TEMPLATE_ID: "template_kcuidoi",
+  YOUR_USER_ID: "adoAtvutMLOyWBgFR",
 };
 
 const socialprofils = {
@@ -106,7 +91,6 @@ export {
     meta,
     dataabout,
     dataportfolio,
-    worktimeline,
     skills,
     introdata,
     contactConfig,
